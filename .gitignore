@@ -1,4 +1,3 @@
 # JCO:ignorando el contenido de carpeta build
-build/
 #BDF: Ignora carpeta .vs (Visual Studio)
 .vs
