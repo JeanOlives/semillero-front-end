@@ -1,0 +1,433 @@
+{
+	"autoCrudStr": "F",
+	"cobisPattern": "None",
+	"cobisPatternId": 0,
+	"commands": [
+	],
+	"customEvents": [
+	],
+	"customizationLayer": 0,
+	"customizationLayerDescription": "ECU",
+	"graphicSupportStr": "F",
+	"header": null,
+	"id": {
+		"moduleId": "FRONT",
+		"subModuleId": "ENDDD",
+		"taskId": "T_FRONTNUITXMNA_708",
+		"version": "1.0.0"
+	},
+	"isCustomized": false,
+	"isImported": false,
+	"mainViewContainerId": "VC_ESTUDIANME_123708",
+	"modeEnabled": 4095,
+	"name": {
+		"$ref": "../../../../FRONT/relations/componentKeys.json#/ENDDD/Forms/T_FRONTNUITXMNA_708/name"
+	},
+	"setFocus": false,
+	"tempSaveStr": "F",
+	"viewContainers": [
+		{
+			"breadcrumbs": "Automatic",
+			"collapsedStr": "F",
+			"colSpan": 1,
+			"columnsNum": 1,
+			"componentStyle": null,
+			"customEvents": [
+			],
+			"customizationLayer": 0,
+			"customizationLayerDescription": "ECU",
+			"enabled": 4095,
+			"id": {
+				"moduleId": "FRONT",
+				"subModuleId": "ENDDD",
+				"taskId": "T_FRONTNUITXMNA_708",
+				"taskVersion": "1.0.0",
+				"viewContainerId": "VC_ESTUDIANME_123708"
+			},
+			"isCustomized": false,
+			"layoutType": "Group",
+			"name": "EstudianteLampForm",
+			"options": 0,
+			"responsiveLayouts": null,
+			"responsivity": false,
+			"style": null,
+			"view": {
+				"groups": [
+					{
+						"collapsedStr": "F",
+						"colSpan": 1,
+						"columnsNum": 3,
+						"componentStyle": null,
+						"customEvents": [
+						],
+						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../FRONT/entities/EN_TODOSZWOB_773.json#"
+						},
+						"eventType": 0,
+						"groupId": "G_ESTUDIATLA_414309",
+						"htmlSection": "F",
+						"independentValidation": "F",
+						"isCustomized": false,
+						"layoutType": "Group",
+						"name": "Group1968",
+						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
+						"style": null,
+						"visible": 4095,
+						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"include": 4095,
+								"isCustomized": false,
+								"maxRecords": null,
+								"name": "Spacer2262",
+								"options": 0,
+								"order": 6,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "Spacer"
+								},
+								"visible": 4095,
+								"visualAttributeId": "Spacer2262",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"include": 4095,
+								"isCustomized": false,
+								"maxRecords": null,
+								"name": "Spacer2274",
+								"options": 0,
+								"order": 7,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "Spacer"
+								},
+								"visible": 4095,
+								"visualAttributeId": "Spacer2274",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"include": 4095,
+								"isCustomized": false,
+								"maxRecords": null,
+								"name": "Spacer2624",
+								"options": 0,
+								"order": 5,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "Spacer"
+								},
+								"visible": 4095,
+								"visualAttributeId": "Spacer2624",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../FRONT/entities/EN_TODOSZWOB_773.json#/attributes/AT67_APELLIOO773"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../FRONT/assets/languages/FRONT.json#/FRONT/LBL/LBL_FRONT_APELLIDOO_61691"
+									},
+									"labelId": "LBL_FRONT_APELLIDOO_61691",
+									"moduleId": "FRONT"
+								},
+								"maxRecords": null,
+								"name": "apellido",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_APELLIDOQWQXJSO_280309",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../FRONT/entities/EN_TODOSZWOB_773.json#/attributes/AT58_EDADYMCN773"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../FRONT/assets/languages/FRONT.json#/FRONT/LBL/LBL_FRONT_EDADXMLAA_49400"
+									},
+									"labelId": "LBL_FRONT_EDADXMLAA_49400",
+									"moduleId": "FRONT"
+								},
+								"maxRecords": null,
+								"name": "edad",
+								"options": 0,
+								"order": 4,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_EDADYEMEQXVWPYL_855309",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../FRONT/entities/EN_TODOSZWOB_773.json#/attributes/AT72_NOMBREHK773"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../FRONT/assets/languages/FRONT.json#/FRONT/LBL/LBL_FRONT_NOMBRENAK_21180"
+									},
+									"labelId": "LBL_FRONT_NOMBRENAK_21180",
+									"moduleId": "FRONT"
+								},
+								"maxRecords": null,
+								"name": "nombre",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_NOMBRENEHTSPRJB_904309",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../FRONT/entities/EN_TODOSZWOB_773.json#/attributes/AT67_SEXORUKO773"
+								},
+								"attributeValidations": [
+								],
+								"cacheDuration": 0,
+								"catalogName": "cl_sexo",
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"entityQuery": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../FRONT/assets/languages/FRONT.json#/FRONT/LBL/LBL_FRONT_SEXOUTMHF_10191"
+									},
+									"labelId": "LBL_FRONT_SEXOUTMHF_10191",
+									"moduleId": "FRONT"
+								},
+								"maxRecords": null,
+								"minChars": null,
+								"name": "sexo",
+								"options": 0,
+								"order": 3,
+								"queryId": null,
+								"queryMemberText": {
+									"attribute": {
+										"attributeId": null,
+										"name": null
+									},
+									"queryMemberId": null
+								},
+								"queryMemberValue": {
+									"attribute": {
+										"attributeId": null,
+										"name": null
+									},
+									"queryMemberId": null
+								},
+								"queryModule": null,
+								"queryVersion": null,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"type": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "ComboBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_SEXOJBMKSOSRMVW_274309",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"entityQuery": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../FRONT/assets/languages/FRONT.json#/FRONT/LBL/LBL_FRONT_GUARDARRR_77667"
+									},
+									"labelId": "LBL_FRONT_GUARDARRR_77667",
+									"moduleId": "FRONT"
+								},
+								"maxRecords": null,
+								"name": "VA_VABUTTONOYCYEKL_566309",
+								"options": 0,
+								"order": 8,
+								"queryModule": null,
+								"queryVersion": null,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "A",
+									"userControlId": "Button"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_VABUTTONOYCYEKL_566309",
+								"width": null,
+								"widthComposite": "D"
+							}
+						]
+					}
+				],
+				"id": {
+					"version": "1.0.0",
+					"viewId": "VW_ESTUDIANEE_309"
+				},
+				"metadataVersion": "7.2.0.2024 BETA",
+				"modules": [
+					{
+						"moduleId": "FRONT"
+					}
+				],
+				"name": "View of EstudianteLampForm"
+			}
+		}
+	]
+}
