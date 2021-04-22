@@ -5,6 +5,9 @@
 		"Forms": {
 			"T_FRONTGLOZBOPH_997": {
 				"name": "EstudianteJcoForm"
+			},
+			"T_FRONTKFXUJXAZ_402": {
+				"name": "EstudianteARCForm"
 			}
 		},
 		"Queries": {
