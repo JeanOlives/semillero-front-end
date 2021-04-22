@@ -38,11 +38,19 @@ public class VA_VABUTTONHNWHXTI_914152 implements IExecuteCommand {
 	private static final ILogger logger = LogFactory.getLogger(VA_VABUTTONHNWHXTI_914152.class);
 
 	@Override
-	public void executeCommand(DynamicRequest arg0, IExecuteCommandEventArgs arg1) {
+	public void executeCommand(DynamicRequest entities, IExecuteCommandEventArgs arg1) {
+		DataEntity entidadEstudiante = entities.getEntity(EstudianteTODOS.ENTITY_NAME);
+		
+		String nombre = entidadEstudiante.get(EstudianteTODOS.NOMBRE);
+		String apellido = entidadEstudiante.get(EstudianteTODOS.APELLIDO);
+		int edad = entidadEstudiante.get(EstudianteTODOS.EDAD);
+		String sexo = entidadEstudiante.get(EstudianteTODOS.SEXO);
 		// TODO Auto-generated method stub
 		try {
 			if (logger.isDebugEnabled()) {
 				logger.logDebug("Start executeCommand in VA_VABUTTONHNWHXTI_914152");
+				logger.logDebug("Informacion recuperada: " +"Nombre: "+nombre + "\nApellido: " + apellido
+						+"\nEdad: " + edad + "\nSexo: " + sexo);
 			}
 		} catch (Exception ex) {
 			DesignerManagerException.handleException(arg1.getMessageManager(), ex, logger);
