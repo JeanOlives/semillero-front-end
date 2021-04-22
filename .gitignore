@@ -1,0 +1,4 @@
+.vs
+# JCO:ignorando el contenido de carpeta build
+build/
+# commons/config/commonsConfig.json

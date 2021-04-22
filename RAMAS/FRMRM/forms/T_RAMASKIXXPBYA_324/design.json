@@ -1,0 +1,272 @@
+{
+	"autoCrudStr": "F",
+	"cobisPattern": "None",
+	"cobisPatternId": 0,
+	"commands": [
+	],
+	"customEvents": [
+	],
+	"customizationLayer": 0,
+	"customizationLayerDescription": "ECU",
+	"graphicSupportStr": "F",
+	"header": null,
+	"id": {
+		"moduleId": "RAMAS",
+		"subModuleId": "FRMRM",
+		"taskId": "T_RAMASKIXXPBYA_324",
+		"version": "1.0.0"
+	},
+	"isCustomized": false,
+	"isImported": false,
+	"mainViewContainerId": "VC_JCOOTEQLUE_743324",
+	"modeEnabled": 4095,
+	"name": {
+		"$ref": "../../../../RAMAS/relations/componentKeys.json#/FRMRM/Forms/T_RAMASKIXXPBYA_324/name"
+	},
+	"setFocus": false,
+	"tempSaveStr": "F",
+	"viewContainers": [
+		{
+			"breadcrumbs": "Automatic",
+			"collapsedStr": "F",
+			"colSpan": 1,
+			"columnsNum": 1,
+			"componentStyle": null,
+			"customEvents": [
+			],
+			"customizationLayer": 0,
+			"customizationLayerDescription": "ECU",
+			"enabled": 4095,
+			"id": {
+				"moduleId": "RAMAS",
+				"subModuleId": "FRMRM",
+				"taskId": "T_RAMASKIXXPBYA_324",
+				"taskVersion": "1.0.0",
+				"viewContainerId": "VC_JCOOTEQLUE_743324"
+			},
+			"isCustomized": false,
+			"layoutType": "Group",
+			"name": "FormularioJCO",
+			"options": 0,
+			"responsiveLayouts": null,
+			"responsivity": false,
+			"style": null,
+			"view": {
+				"groups": [
+					{
+						"collapsedStr": "F",
+						"colSpan": 1,
+						"columnsNum": 3,
+						"componentStyle": null,
+						"customEvents": [
+						],
+						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../RAMAS/entities/EN_JCOBMSZIE_939.json#"
+						},
+						"eventType": 0,
+						"groupId": "G_JCOOHUDNWN_947280",
+						"htmlSection": "F",
+						"independentValidation": "F",
+						"isCustomized": false,
+						"layoutType": "Group",
+						"name": "Group1506",
+						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
+						"style": null,
+						"visible": 4095,
+						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../RAMAS/entities/EN_JCOBMSZIE_939.json#/attributes/AT25_EDADHUPJ939"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_EDADZVLVC_81915"
+									},
+									"labelId": "LBL_RAMAS_EDADZVLVC_81915",
+									"moduleId": "RAMAS"
+								},
+								"maxRecords": null,
+								"name": "edad",
+								"options": 0,
+								"order": 3,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_TEXTINPUTBOXBIP_210280",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../RAMAS/entities/EN_JCOBMSZIE_939.json#/attributes/AT21_APELLIDD939"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_APELLIDOO_55061"
+									},
+									"labelId": "LBL_RAMAS_APELLIDOO_55061",
+									"moduleId": "RAMAS"
+								},
+								"maxRecords": null,
+								"name": "apellido",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_TEXTINPUTBOXDJD_478280",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../RAMAS/entities/EN_JCOBMSZIE_939.json#/attributes/AT59_NOMBREZS939"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_NOMBREVXT_41612"
+									},
+									"labelId": "LBL_RAMAS_NOMBREVXT_41612",
+									"moduleId": "RAMAS"
+								},
+								"maxRecords": null,
+								"name": "nombre",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_TEXTINPUTBOXXSD_666280",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"entityQuery": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../RAMAS/assets/languages/RAMAS.json#/RAMAS/LBL/LBL_RAMAS_REGISTRAR_90177"
+									},
+									"labelId": "LBL_RAMAS_REGISTRAR_90177",
+									"moduleId": "RAMAS"
+								},
+								"maxRecords": null,
+								"name": "VA_VABUTTONJNNDNOS_237280",
+								"options": 0,
+								"order": 4,
+								"queryModule": null,
+								"queryVersion": null,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "A",
+									"userControlId": "Button"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_VABUTTONJNNDNOS_237280",
+								"width": null,
+								"widthComposite": "D"
+							}
+						]
+					}
+				],
+				"id": {
+					"version": "1.0.0",
+					"viewId": "VW_JCOIAOEPIN_280"
+				},
+				"metadataVersion": "7.2.0.2024 BETA",
+				"modules": [
+					{
+						"moduleId": "RAMAS"
+					}
+				],
+				"name": "View of FormularioJCO"
+			}
+		}
+	]
+}

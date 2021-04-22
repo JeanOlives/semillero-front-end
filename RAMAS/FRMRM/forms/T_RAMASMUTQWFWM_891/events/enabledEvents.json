@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONONIWNIE_147312",
+		"controlName": "VA_VABUTTONONIWNIE_147312",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "EntidadJES",
+		"eventsType": "visualAttributeEventType"
+	}
+]
