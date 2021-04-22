@@ -277,6 +277,48 @@
 								"visualAttributeId": "VA_SEXOMVSYUPUUSQF_981152",
 								"width": null,
 								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"entityQuery": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../FRONT/assets/languages/FRONT.json#/FRONT/LBL/LBL_FRONT_GUARDARRR_77667"
+									},
+									"labelId": "LBL_FRONT_GUARDARRR_77667",
+									"moduleId": "FRONT"
+								},
+								"maxRecords": null,
+								"name": "VA_VABUTTONHNWHXTI_914152",
+								"options": 0,
+								"order": 5,
+								"queryModule": null,
+								"queryVersion": null,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "A",
+									"userControlId": "Button"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_VABUTTONHNWHXTI_914152",
+								"width": null,
+								"widthComposite": "D"
 							}
 						]
 					}
