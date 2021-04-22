@@ -5,6 +5,9 @@
 		"Forms": {
 			"T_FRONTCZCRNJKD_109": {
 				"name": "EstudianteAshForm"
+      },
+			"T_FRONTFSTIYXEX_288": {
+				"name": "EstudianteJesForm"
 			},
 			"T_FRONTGLOZBOPH_997": {
 				"name": "EstudianteJcoForm"
@@ -20,6 +23,18 @@
 			},
 			"T_FRONTKFXUJXAZ_402": {
 				"name": "EstudianteARCForm"
+      },
+			"T_FRONTHDPRWEIY_200": {
+				"name": "EstudianteBDFForm"
+			},
+			"T_FRONTNUITXMNA_708": {
+				"name": "EstudianteLampForm"
+			},
+			"T_FRONTVCHUGMDN_844": {
+				"name": "EstudianteOFVA"
+			},
+			"T_FRONTYYLHVRWX_877": {
+				"name": "EstudianteDGZForm"
 			},
 			"T_FRONTMQVQEABI_484": {
 				"name": "EstudianteJCGRForm"
