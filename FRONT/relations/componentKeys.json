@@ -14,6 +14,21 @@
 			},
 			"T_FRONTYFEACMSI_996": {
 				"name": "EstudianteDsyForm"
+			},
+			"T_FRONTWTSVCGKR_940": {
+				"name": "EstudianteMAPLForm"
+			},
+			"T_FRONTKFXUJXAZ_402": {
+				"name": "EstudianteARCForm"
+			},
+			"T_FRONTMQVQEABI_484": {
+				"name": "EstudianteJCGRForm"
+			},
+			"T_FRONTRPGDCKMI_937": {
+				"name": "EstudianteVpiForm"
+			},
+			"T_FRONTUVXMNZNU_590": {
+				"name": "EstudianteAFCLForm"
 			}
 		},
 		"Queries": {
