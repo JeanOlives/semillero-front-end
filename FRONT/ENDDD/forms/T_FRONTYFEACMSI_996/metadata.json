@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_TODOSZWOB_773",
+			"isContextEntity": null,
+			"moduleId": "FRONT",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}
