@@ -1,5 +1,60 @@
 {
-	"APP_GRUPO1TAYAI_341": {
+
+	"APP_GRUPOCJRBQD_819": {
+		"externalModules": {
+		},
+		"forms": {
+			"FRONT": [
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteAshForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTCZCRNJKD_109",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteJcoForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTGLOZBOPH_997",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteDmpForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTJXBJZVQW_794",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteDsyForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTYFEACMSI_996",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "GrupoC",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_GRUPOCJRBQD_819",
+		"mainPortletTaskId": "T_FRONTCZCRNJKD_109",
+		"modules": [
+			"FRONT"
+		],
+		"name": "GrupoC"
+	},
+"APP_GRUPO1TAYAI_341": {
 		"externalModules": {
 		},
 		"forms": {
@@ -61,4 +116,12 @@
 		],
 		"name": "Grupo1"
 	}
+
+
+
+
+
+
+
+
 }

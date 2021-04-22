@@ -8,7 +8,65 @@
 		}
 	},
 	"Forms": {
+		"T_FRONTCZCRNJKD_109": {
+			"blis": [
+			],
+			"entities": {
+				"EN_TODOSZWOB_773": [
+					"AT58_EDADYMCN773",
+					"AT67_APELLIOO773",
+					"AT67_SEXORUKO773",
+					"AT72_NOMBREHK773"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_FRONT_APELLIDOO_61691",
+				"LBL_FRONT_EDADXMLAA_49400",
+				"LBL_FRONT_GUARDARRR_77667",
+				"LBL_FRONT_NOMBRENAK_21180",
+				"LBL_FRONT_SEXOUTMHF_10191"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_FRONTGLOZBOPH_997": {
+			"blis": [
+			],
+			"entities": {
+				"EN_TODOSZWOB_773": [
+					"AT58_EDADYMCN773",
+					"AT67_APELLIOO773",
+					"AT67_SEXORUKO773",
+					"AT72_NOMBREHK773"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_FRONT_APELLIDOO_61691",
+				"LBL_FRONT_EDADXMLAA_49400",
+				"LBL_FRONT_GUARDARRR_77667",
+				"LBL_FRONT_NOMBRENAK_21180",
+				"LBL_FRONT_SEXOUTMHF_10191"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_FRONTYFEACMSI_996": {
 			"blis": [
 			],
 			"entities": {

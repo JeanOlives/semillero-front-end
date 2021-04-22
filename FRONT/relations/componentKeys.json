@@ -3,8 +3,17 @@
 		"CompositeForms": {
 		},
 		"Forms": {
+			"T_FRONTCZCRNJKD_109": {
+				"name": "EstudianteAshForm"
+			},
 			"T_FRONTGLOZBOPH_997": {
 				"name": "EstudianteJcoForm"
+			},
+			"T_FRONTJXBJZVQW_794": {
+				"name": "EstudianteDmpForm"
+			},
+			"T_FRONTYFEACMSI_996": {
+				"name": "EstudianteDsyForm"
 			},
 			"T_FRONTWTSVCGKR_940": {
 				"name": "EstudianteMAPLForm"
