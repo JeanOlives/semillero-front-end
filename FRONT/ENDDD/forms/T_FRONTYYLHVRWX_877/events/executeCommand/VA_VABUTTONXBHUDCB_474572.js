@@ -8,6 +8,6 @@ task.executeCommand.VA_VABUTTONXBHUDCB_474572 = function(  entities, executeComm
     executeCommandEventArgs.commons.execServer = true;
     //executeCommandEventArgs.commons.serverParameters.EstudianteTODOS = true;
     const Estudiante = entities.EstudianteTODOS;
-    console.log("Nombre: " + Estudiante.nombre + " ,Apellido: "+Estudiante.apellido)
+    console.log("Nombre: " + Estudiante.nombre + " ,Apellido: "+Estudiante.apellido);
 
 };
