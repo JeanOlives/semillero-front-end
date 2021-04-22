@@ -9,5 +9,4 @@ task.executeCommand.VA_VABUTTONAMXPFRM_734708 = function(  entities, executeComm
     //executeCommandEventArgs.commons.serverParameters.EstudianteTODOS = true;
     const Estudiante = entities.EstudianteTODOS;
     console.log("Nombre: " + Estudiante.nombre + " ,Apellido: "+Estudiante.apellido);
-
 };

@@ -5,7 +5,7 @@
 		"Forms": {
 			"T_FRONTCZCRNJKD_109": {
 				"name": "EstudianteAshForm"
-                        },
+      },
 			"T_FRONTFSTIYXEX_288": {
 				"name": "EstudianteJesForm"
 			},
@@ -23,16 +23,7 @@
 			},
 			"T_FRONTKFXUJXAZ_402": {
 				"name": "EstudianteARCForm"
-                        },
-			"T_FRONTMQVQEABI_484": {
-				"name": "EstudianteJCGRForm"
-                        },
-			"T_FRONTRPGDCKMI_937": {
-				"name": "EstudianteVpiForm"
-                        },
-			"T_FRONTUVXMNZNU_590": {
-				"name": "EstudianteAFCLForm"
-                        },
+      },
 			"T_FRONTHDPRWEIY_200": {
 				"name": "EstudianteBDFForm"
 			},
@@ -44,6 +35,15 @@
 			},
 			"T_FRONTYYLHVRWX_877": {
 				"name": "EstudianteDGZForm"
+			},
+			"T_FRONTMQVQEABI_484": {
+				"name": "EstudianteJCGRForm"
+			},
+			"T_FRONTRPGDCKMI_937": {
+				"name": "EstudianteVpiForm"
+			},
+			"T_FRONTUVXMNZNU_590": {
+				"name": "EstudianteAFCLForm"
 			}
 		},
 		"Queries": {
