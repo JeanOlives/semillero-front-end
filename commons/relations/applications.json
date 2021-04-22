@@ -129,7 +129,7 @@
 		"forms": {
 			"FRONT": [
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
 					"name": "EstudianteAshForm",
 					"subModuleId": "ENDDD",
@@ -137,7 +137,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
 					"name": "EstudianteJcoForm",
 					"subModuleId": "ENDDD",
@@ -145,7 +145,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
 					"name": "EstudianteDmpForm",
 					"subModuleId": "ENDDD",
@@ -153,7 +153,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
 					"name": "EstudianteDsyForm",
 					"subModuleId": "ENDDD",
