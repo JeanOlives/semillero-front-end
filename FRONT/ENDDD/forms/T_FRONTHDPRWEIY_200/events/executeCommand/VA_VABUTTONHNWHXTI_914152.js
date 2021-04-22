@@ -7,5 +7,7 @@ task.executeCommand.VA_VABUTTONHNWHXTI_914152 = function(  entities, executeComm
 
     executeCommandEventArgs.commons.execServer = true;
     //executeCommandEventArgs.commons.serverParameters.EstudianteTODOS = true;
+    const Estudiante = entities.EstudianteTODOS;
+    console.log("Nombre: " + Estudiante.nombre + " ,Apellido: "+Estudiante.apellido);
 
 };
