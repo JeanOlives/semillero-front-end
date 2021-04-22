@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "FRONT",
+	"modules": [
+		{
+			"moduleId": "FRONT",
+			"moduleName": "Front",
+			"subModules": [
+				{
+					"subModuleId": "ENDDD",
+					"subModuleName": "End"
+				}
+			]
+		}
+	],
+	"projectName": "semillero-front-end",
+	"subModuleId": "ENDDD"
+}

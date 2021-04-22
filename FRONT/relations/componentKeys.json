@@ -1,0 +1,20 @@
+{
+	"ENDDD": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_FRONTGLOZBOPH_997": {
+				"name": "EstudianteJcoForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	},
+	"Entities": {
+		"EN_TODOSZWOB_773": {
+			"name": "EstudianteTODOS"
+		}
+	}
+}
