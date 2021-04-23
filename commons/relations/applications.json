@@ -1,55 +1,43 @@
 {
-
-	"APP_GRUPOCJRBQD_819": {
 	"APP_GRUPO1TAYAI_341": {
 		"externalModules": {
 		},
 		"forms": {
 			"FRONT": [
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
-					"name": "EstudianteAshForm",
 					"name": "EstudianteARCForm",
 					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTCZCRNJKD_109",
 					"taskId": "T_FRONTKFXUJXAZ_402",
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
-					"name": "EstudianteJcoForm",
 					"name": "EstudianteJCGRForm",
 					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTGLOZBOPH_997",
 					"taskId": "T_FRONTMQVQEABI_484",
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
-					"name": "EstudianteDmpForm",
 					"name": "EstudianteVpiForm",
 					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTJXBJZVQW_794",
 					"taskId": "T_FRONTRPGDCKMI_937",
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
-					"name": "EstudianteDsyForm",
 					"name": "EstudianteAFCLForm",
 					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTYFEACMSI_996",
 					"taskId": "T_FRONTUVXMNZNU_590",
 					"type": "Simple form"
-
-
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
 					"name": "EstudianteMAPLForm",
 					"subModuleId": "ENDDD",
@@ -62,23 +50,72 @@
 			"categoryName": "Cobiscorp",
 			"customEventImpl": "Custom",
 			"customEventImplPath": "{projectPath}\\build",
-			"displayName": "GrupoC",
 			"displayName": "Grupo1",
 			"mode": "Development",
 			"type": "HTML5"
 		},
-		"id": "APP_GRUPOCJRBQD_819",
-		"mainPortletTaskId": "T_FRONTCZCRNJKD_109",
 		"id": "APP_GRUPO1TAYAI_341",
 		"mainPortletTaskId": "T_FRONTWTSVCGKR_940",
 		"modules": [
 			"FRONT"
 		],
-		"name": "GrupoC"
 		"name": "Grupo1"
 	},
-"APP_GRUPO1TAYAI_341": {
-	"APP_GRUPOBDRZUE_358": {
+	"APP_GRUPOCJRBQD_819": {
+		"externalModules": {
+		},
+		"forms": {
+			"FRONT": [
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteAshForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTCZCRNJKD_109",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteJcoForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTGLOZBOPH_997",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteDmpForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTJXBJZVQW_794",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteDsyForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTYFEACMSI_996",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "GrupoC",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_GRUPOCJRBQD_819",
+		"mainPortletTaskId": "T_FRONTCZCRNJKD_109",
+		"modules": [
+			"FRONT"
+		],
+		"name": "GrupoC"
+	},
+		"APP_GRUPOBDRZUE_358": {
 		"externalModules": {
 		},
 		"forms": {
@@ -157,60 +194,6 @@
 		"modules": [
 			"FRONT"
 		],
-		"name": "Grupo1"
 		"name": "GrupoB"
-	},
-	"APP_GRUPOCJRBQD_819": {
-		"externalModules": {
-		},
-		"forms": {
-			"FRONT": [
-				{
-					"generated": 4,
-					"moduleId": "FRONT",
-					"name": "EstudianteAshForm",
-					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTCZCRNJKD_109",
-					"type": "Simple form"
-				},
-				{
-					"generated": 4,
-					"moduleId": "FRONT",
-					"name": "EstudianteJcoForm",
-					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTGLOZBOPH_997",
-					"type": "Simple form"
-				},
-				{
-					"generated": 4,
-					"moduleId": "FRONT",
-					"name": "EstudianteDmpForm",
-					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTJXBJZVQW_794",
-					"type": "Simple form"
-				},
-				{
-					"generated": 4,
-					"moduleId": "FRONT",
-					"name": "EstudianteDsyForm",
-					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTYFEACMSI_996",
-					"type": "Simple form"
-				}
-			]
-		},
-		"generate": {
-			"categoryName": "Cobiscorp",
-			"customEventImpl": "Custom",
-			"customEventImplPath": "{projectPath}\\build",
-			"displayName": "GrupoC",
-			"mode": "Development",
-			"type": "HTML5"
-		},
-		"id": "APP_GRUPOCJRBQD_819",
-		"mainPortletTaskId": "T_FRONTCZCRNJKD_109",
-		"modules": [
-			"FRONT"
-		],
-		"name": "GrupoC"	}
+	}
 }
