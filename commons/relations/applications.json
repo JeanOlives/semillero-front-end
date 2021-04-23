@@ -7,40 +7,50 @@
 				{
 					"generated": 4,
 					"moduleId": "FRONT",
+					"moduleName": "Front",
 					"name": "EstudianteARCForm",
 					"subModuleId": "ENDDD",
+					"subModuleName": "End",
 					"taskId": "T_FRONTKFXUJXAZ_402",
 					"type": "Simple form"
 				},
 				{
 					"generated": 4,
 					"moduleId": "FRONT",
+					"moduleName": "Front",
 					"name": "EstudianteJCGRForm",
 					"subModuleId": "ENDDD",
+					"subModuleName": "End",
 					"taskId": "T_FRONTMQVQEABI_484",
 					"type": "Simple form"
 				},
 				{
 					"generated": 4,
 					"moduleId": "FRONT",
+					"moduleName": "Front",
 					"name": "EstudianteVpiForm",
 					"subModuleId": "ENDDD",
+					"subModuleName": "End",
 					"taskId": "T_FRONTRPGDCKMI_937",
 					"type": "Simple form"
 				},
 				{
 					"generated": 4,
 					"moduleId": "FRONT",
+					"moduleName": "Front",
 					"name": "EstudianteAFCLForm",
 					"subModuleId": "ENDDD",
+					"subModuleName": "End",
 					"taskId": "T_FRONTUVXMNZNU_590",
 					"type": "Simple form"
 				},
 				{
 					"generated": 4,
 					"moduleId": "FRONT",
+					"moduleName": "Front",
 					"name": "EstudianteMAPLForm",
 					"subModuleId": "ENDDD",
+					"subModuleName": "End",
 					"taskId": "T_FRONTWTSVCGKR_940",
 					"type": "Simple form"
 				}
@@ -60,6 +70,76 @@
 			"FRONT"
 		],
 		"name": "Grupo1"
+	},
+	"APP_GRUPOBDRZUE_358": {
+		"externalModules": {
+		},
+		"forms": {
+			"FRONT": [
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteJesForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTFSTIYXEX_288",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteBDFForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTHDPRWEIY_200",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteLampForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTNUITXMNA_708",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteOFVA",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTVCHUGMDN_844",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteMAPLForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTWTSVCGKR_940",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
+					"name": "EstudianteDGZForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTYYLHVRWX_877",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "GrupoB",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_GRUPOBDRZUE_358",
+		"mainPortletTaskId": "T_FRONTFSTIYXEX_288",
+		"modules": [
+			"FRONT"
+		],
+		"name": "GrupoB"
 	},
 	"APP_GRUPOCJRBQD_819": {
 		"externalModules": {
@@ -114,86 +194,5 @@
 			"FRONT"
 		],
 		"name": "GrupoC"
-	},
-		"APP_GRUPOBDRZUE_358": {
-		"externalModules": {
-		},
-		"forms": {
-			"FRONT": [
-				{
-					"generated": 0,
-					"moduleId": "FRONT",
-					"name": "EstudianteARCForm",
-					"name": "EstudianteJesForm",
-					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTKFXUJXAZ_402",
-					"taskId": "T_FRONTFSTIYXEX_288",
-					"type": "Simple form"
-				},
-				{
-					"generated": 0,
-					"moduleId": "FRONT",
-					"name": "EstudianteJCGRForm",
-					"name": "EstudianteBDFForm",
-					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTMQVQEABI_484",
-					"taskId": "T_FRONTHDPRWEIY_200",
-					"type": "Simple form"
-				},
-				{
-					"generated": 0,
-					"moduleId": "FRONT",
-					"name": "EstudianteVpiForm",
-					"name": "EstudianteLampForm",
-					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTRPGDCKMI_937",
-					"taskId": "T_FRONTNUITXMNA_708",
-					"type": "Simple form"
-				},
-				{
-					"generated": 0,
-					"moduleId": "FRONT",
-					"name": "EstudianteAFCLForm",
-					"name": "EstudianteOFVA",
-					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTUVXMNZNU_590",
-					"taskId": "T_FRONTVCHUGMDN_844",
-					"type": "Simple form"
-				},
-				{
-					"generated": 0,
-					"moduleId": "FRONT",
-					"name": "EstudianteMAPLForm",
-					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTWTSVCGKR_940",
-					"type": "Simple form"
-				},
-				{
-					"generated": 0,
-					"moduleId": "FRONT",
-					"name": "EstudianteDGZForm",
-					"subModuleId": "ENDDD",
-					"taskId": "T_FRONTYYLHVRWX_877",
-					"type": "Simple form"
-				}
-			]
-		},
-		"generate": {
-			"categoryName": "Cobiscorp",
-			"customEventImpl": "Custom",
-			"customEventImplPath": "{projectPath}\\build",
-			"displayName": "Grupo1",
-			"displayName": "GrupoB",
-			"mode": "Development",
-			"type": "HTML5"
-		},
-		"id": "APP_GRUPO1TAYAI_341",
-		"mainPortletTaskId": "T_FRONTWTSVCGKR_940",
-		"id": "APP_GRUPOBDRZUE_358",
-		"mainPortletTaskId": "T_FRONTFSTIYXEX_288",
-		"modules": [
-			"FRONT"
-		],
-		"name": "GrupoB"
 	}
 }
