@@ -5,42 +5,52 @@
 		"forms": {
 			"FRONT": [
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
+					"moduleName": "Front",
 					"name": "EstudianteARCForm",
 					"subModuleId": "ENDDD",
+					"subModuleName": "End",
 					"taskId": "T_FRONTKFXUJXAZ_402",
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
+					"moduleName": "Front",
 					"name": "EstudianteJCGRForm",
 					"subModuleId": "ENDDD",
+					"subModuleName": "End",
 					"taskId": "T_FRONTMQVQEABI_484",
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
+					"moduleName": "Front",
 					"name": "EstudianteVpiForm",
 					"subModuleId": "ENDDD",
+					"subModuleName": "End",
 					"taskId": "T_FRONTRPGDCKMI_937",
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
+					"moduleName": "Front",
 					"name": "EstudianteAFCLForm",
 					"subModuleId": "ENDDD",
+					"subModuleName": "End",
 					"taskId": "T_FRONTUVXMNZNU_590",
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "FRONT",
+					"moduleName": "Front",
 					"name": "EstudianteMAPLForm",
 					"subModuleId": "ENDDD",
+					"subModuleName": "End",
 					"taskId": "T_FRONTWTSVCGKR_940",
 					"type": "Simple form"
 				}
@@ -101,6 +111,14 @@
 				{
 					"generated": 0,
 					"moduleId": "FRONT",
+					"name": "EstudianteMAPLForm",
+					"subModuleId": "ENDDD",
+					"taskId": "T_FRONTWTSVCGKR_940",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "FRONT",
 					"name": "EstudianteDGZForm",
 					"subModuleId": "ENDDD",
 					"taskId": "T_FRONTYYLHVRWX_877",
@@ -129,7 +147,7 @@
 		"forms": {
 			"FRONT": [
 				{
-					"generated": 4,
+					"generated": 0,
 					"moduleId": "FRONT",
 					"name": "EstudianteAshForm",
 					"subModuleId": "ENDDD",
@@ -137,7 +155,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 4,
+					"generated": 0,
 					"moduleId": "FRONT",
 					"name": "EstudianteJcoForm",
 					"subModuleId": "ENDDD",
@@ -145,7 +163,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 4,
+					"generated": 0,
 					"moduleId": "FRONT",
 					"name": "EstudianteDmpForm",
 					"subModuleId": "ENDDD",
@@ -153,7 +171,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 4,
+					"generated": 0,
 					"moduleId": "FRONT",
 					"name": "EstudianteDsyForm",
 					"subModuleId": "ENDDD",
