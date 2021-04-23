@@ -13,15 +13,15 @@
 	"id": {
 		"moduleId": "FRONT",
 		"subModuleId": "ENDDD",
-		"taskId": "T_FRONTYFEACMSI_996",
+		"taskId": "T_FRONTYYLHVRWX_877",
 		"version": "1.0.0"
 	},
 	"isCustomized": false,
 	"isImported": false,
-	"mainViewContainerId": "VC_ESTUDIANDY_850996",
+	"mainViewContainerId": "VC_ESTUDIANZZ_362877",
 	"modeEnabled": 4095,
 	"name": {
-		"$ref": "../../../../FRONT/relations/componentKeys.json#/ENDDD/Forms/T_FRONTYFEACMSI_996/name"
+		"$ref": "../../../../FRONT/relations/componentKeys.json#/ENDDD/Forms/T_FRONTYYLHVRWX_877/name"
 	},
 	"setFocus": false,
 	"tempSaveStr": "F",
@@ -40,13 +40,13 @@
 			"id": {
 				"moduleId": "FRONT",
 				"subModuleId": "ENDDD",
-				"taskId": "T_FRONTYFEACMSI_996",
+				"taskId": "T_FRONTYYLHVRWX_877",
 				"taskVersion": "1.0.0",
-				"viewContainerId": "VC_ESTUDIANDY_850996"
+				"viewContainerId": "VC_ESTUDIANZZ_362877"
 			},
 			"isCustomized": false,
 			"layoutType": "Group",
-			"name": "EstudianteDsyForm",
+			"name": "EstudianteDGZForm",
 			"options": 0,
 			"responsiveLayouts": null,
 			"responsivity": false,
@@ -65,12 +65,12 @@
 							"$ref": "../../../../FRONT/entities/EN_TODOSZWOB_773.json#"
 						},
 						"eventType": 0,
-						"groupId": "G_ESTUDIATTN_784726",
+						"groupId": "G_ESTUDIATET_553572",
 						"htmlSection": "F",
 						"independentValidation": "F",
 						"isCustomized": false,
 						"layoutType": "Group",
-						"name": "Group1566",
+						"name": "Group1149",
 						"order": 1,
 						"orientation": "V",
 						"responsiveLayouts": null,
@@ -78,6 +78,141 @@
 						"style": null,
 						"visible": 4095,
 						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../FRONT/entities/EN_TODOSZWOB_773.json#/attributes/AT67_APELLIOO773"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../FRONT/assets/languages/FRONT.json#/FRONT/LBL/LBL_FRONT_APELLIDOO_61691"
+									},
+									"labelId": "LBL_FRONT_APELLIDOO_61691",
+									"moduleId": "FRONT"
+								},
+								"maxRecords": null,
+								"name": "apellido",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_APELLIDOIEQPOPS_681572",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../FRONT/entities/EN_TODOSZWOB_773.json#/attributes/AT58_EDADYMCN773"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../FRONT/assets/languages/FRONT.json#/FRONT/LBL/LBL_FRONT_EDADXMLAA_49400"
+									},
+									"labelId": "LBL_FRONT_EDADXMLAA_49400",
+									"moduleId": "FRONT"
+								},
+								"maxRecords": null,
+								"name": "edad",
+								"options": 0,
+								"order": 3,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_EDADPHWXQXIAIGK_736572",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../FRONT/entities/EN_TODOSZWOB_773.json#/attributes/AT72_NOMBREHK773"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../FRONT/assets/languages/FRONT.json#/FRONT/LBL/LBL_FRONT_NOMBRENAK_21180"
+									},
+									"labelId": "LBL_FRONT_NOMBRENAK_21180",
+									"moduleId": "FRONT"
+								},
+								"maxRecords": null,
+								"name": "nombre",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_NOMBREBVRDKZCIC_295572",
+								"width": null,
+								"widthComposite": "D"
+							},
 							{
 								"aggregate": null,
 								"aggregateId": null,
@@ -139,142 +274,7 @@
 									"userControlId": "ComboBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_2383FCJVTCGGPIA_574726",
-								"width": null,
-								"widthComposite": "D"
-							},
-							{
-								"aggregate": null,
-								"aggregateId": null,
-								"attribute": {
-									"$ref": "../../../../FRONT/entities/EN_TODOSZWOB_773.json#/attributes/AT72_NOMBREHK773"
-								},
-								"attributeValidations": [
-								],
-								"colSpan": 1,
-								"componentInGrid": false,
-								"componentStyle": null,
-								"customEvents": [
-								],
-								"customizationLayer": 0,
-								"customizationLayerDescription": "ECU",
-								"enabled": 4095,
-								"format": "",
-								"include": 4095,
-								"isCustomized": false,
-								"label": {
-									"defaultValue": {
-										"$ref": "../../../../FRONT/assets/languages/FRONT.json#/FRONT/LBL/LBL_FRONT_NOMBRENAK_21180"
-									},
-									"labelId": "LBL_FRONT_NOMBRENAK_21180",
-									"moduleId": "FRONT"
-								},
-								"maxRecords": null,
-								"name": "nombre",
-								"options": 0,
-								"order": 1,
-								"readOnly": 8,
-								"responsiveLayouts": null,
-								"responsivity": false,
-								"sizeWidthComposite": null,
-								"style": null,
-								"textRows": 0,
-								"userControl": {
-									"type": "I",
-									"userControlId": "TextInputBox"
-								},
-								"visible": 4095,
-								"visualAttributeId": "VA_2544QDUEMNLLLIE_795726",
-								"width": null,
-								"widthComposite": "D"
-							},
-							{
-								"aggregate": null,
-								"aggregateId": null,
-								"attribute": {
-									"$ref": "../../../../FRONT/entities/EN_TODOSZWOB_773.json#/attributes/AT67_APELLIOO773"
-								},
-								"attributeValidations": [
-								],
-								"colSpan": 1,
-								"componentInGrid": false,
-								"componentStyle": null,
-								"customEvents": [
-								],
-								"customizationLayer": 0,
-								"customizationLayerDescription": "ECU",
-								"enabled": 4095,
-								"format": "",
-								"include": 4095,
-								"isCustomized": false,
-								"label": {
-									"defaultValue": {
-										"$ref": "../../../../FRONT/assets/languages/FRONT.json#/FRONT/LBL/LBL_FRONT_APELLIDOO_61691"
-									},
-									"labelId": "LBL_FRONT_APELLIDOO_61691",
-									"moduleId": "FRONT"
-								},
-								"maxRecords": null,
-								"name": "apellido",
-								"options": 0,
-								"order": 2,
-								"readOnly": 8,
-								"responsiveLayouts": null,
-								"responsivity": false,
-								"sizeWidthComposite": null,
-								"style": null,
-								"textRows": 0,
-								"userControl": {
-									"type": "I",
-									"userControlId": "TextInputBox"
-								},
-								"visible": 4095,
-								"visualAttributeId": "VA_5262DUYYVEOPLKE_575726",
-								"width": null,
-								"widthComposite": "D"
-							},
-							{
-								"aggregate": null,
-								"aggregateId": null,
-								"attribute": {
-									"$ref": "../../../../FRONT/entities/EN_TODOSZWOB_773.json#/attributes/AT58_EDADYMCN773"
-								},
-								"attributeValidations": [
-								],
-								"colSpan": 1,
-								"componentInGrid": false,
-								"componentStyle": null,
-								"customEvents": [
-								],
-								"customizationLayer": 0,
-								"customizationLayerDescription": "ECU",
-								"enabled": 4095,
-								"format": "",
-								"include": 4095,
-								"isCustomized": false,
-								"label": {
-									"defaultValue": {
-										"$ref": "../../../../FRONT/assets/languages/FRONT.json#/FRONT/LBL/LBL_FRONT_EDADXMLAA_49400"
-									},
-									"labelId": "LBL_FRONT_EDADXMLAA_49400",
-									"moduleId": "FRONT"
-								},
-								"maxRecords": null,
-								"name": "edad",
-								"options": 0,
-								"order": 3,
-								"readOnly": 8,
-								"responsiveLayouts": null,
-								"responsivity": false,
-								"sizeWidthComposite": null,
-								"style": null,
-								"textRows": 0,
-								"userControl": {
-									"type": "I",
-									"userControlId": "TextInputBox"
-								},
-								"visible": 4095,
-								"visualAttributeId": "VA_8328SNCOMTFIGHV_865726",
+								"visualAttributeId": "VA_SEXOOIFAWNGYKQT_874572",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -288,7 +288,7 @@
 								"componentStyle": null,
 								"customEvents": [
 									{
-										"customEventId": "CEVA_010VA_VABUTTONMYGZIEQ_326726_923",
+										"customEventId": "CEVA_010VA_VABUTTONXBHUDCB_474572_213",
 										"customizationLayer": 0,
 										"customizationLayerDescription": "ECU",
 										"enabled": "T",
@@ -325,7 +325,7 @@
 									"moduleId": "FRONT"
 								},
 								"maxRecords": null,
-								"name": "VA_VABUTTONMYGZIEQ_326726",
+								"name": "VA_VABUTTONXBHUDCB_474572",
 								"options": 0,
 								"order": 5,
 								"queryModule": null,
@@ -339,7 +339,7 @@
 									"userControlId": "Button"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_VABUTTONMYGZIEQ_326726",
+								"visualAttributeId": "VA_VABUTTONXBHUDCB_474572",
 								"width": null,
 								"widthComposite": "D"
 							}
@@ -348,7 +348,7 @@
 				],
 				"id": {
 					"version": "1.0.0",
-					"viewId": "VW_ESTUDIANST_726"
+					"viewId": "VW_ESTUDIANED_572"
 				},
 				"metadataVersion": "7.2.0.2024 BETA",
 				"modules": [
@@ -356,7 +356,7 @@
 						"moduleId": "FRONT"
 					}
 				],
-				"name": "View of EstudianteDsyForm"
+				"name": "View of EstudianteDGZForm"
 			}
 		}
 	]
