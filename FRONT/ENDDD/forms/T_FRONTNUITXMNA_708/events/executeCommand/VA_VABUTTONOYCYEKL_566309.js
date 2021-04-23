@@ -8,7 +8,7 @@ task.executeCommand.VA_VABUTTONOYCYEKL_566309 = function(  entities, executeComm
     executeCommandEventArgs.commons.execServer = true;
     //executeCommandEventArgs.commons.serverParameters.EstudianteTODOS = true;
     
-    const Estudiate = entities.EstudianteTODOS;
-    console.log("Nombre: " + Estudiate.nombre + ", Apellido: " + Estudiante.apellido);
+    const Estudiante = entities.EstudianteTODOS;
+    console.log("Nombre: " + Estudiante.nombre + ", Apellido: " + Estudiante.apellido);
 
 };
